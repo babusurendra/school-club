@@ -1,0 +1,30 @@
+{
+  "name": "school-club",
+  "version": "1.0.0",
+  "description": "this is web application which allow school friends to share things and keep in touch with school",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babusurendra/school-club.git"
+  },
+  "keywords": [
+    "school-club",
+    "school",
+    "club"
+  ],
+  "author": "Surendra Babu Parchuru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babusurendra/school-club/issues"
+  },
+  "homepage": "https://github.com/babusurendra/school-club#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.6",
+    "morgan": "^1.9.0"
+  }
+}
